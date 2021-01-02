@@ -4,7 +4,7 @@ public class BubbleSort {
      * Created by: Andrés Botía Carreño
      * Year: 2021
      * Licence: GNU V3
-     * Description: Merge Sort Algorithm
+     * Description: Bubble Sort Algorithm
      * Complexity: O(n^2)
      * */
 

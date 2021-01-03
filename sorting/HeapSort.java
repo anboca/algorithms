@@ -11,7 +11,7 @@ public class HeapSort {
      * */
 
     public static void main (String[] args){
-        int[] array={4,1,3,2,16,9,10,14,8,7};//16,14,10,8,7,9,3,2,4,1
+        int[] array={4,1,3,2,16,9,10,14,8,7};
         printArray(array);
         heapSort(array);
         printArray(array);
